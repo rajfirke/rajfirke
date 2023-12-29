@@ -1,4 +1,8 @@
+<div align= "center" >
+  
 ![Alt text](github-header-image%20(2).png)
+
+</div>
 
 # 💫 About Me:
 Hello! My name is Raj Firke, and I’m a computer Engineering student at PCCOE, Pune. I’m enthusiastic in the field because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems.<br><br>I am also interested in the future of technology like LLM, and Data because even though computer technology has come a long way since I was a kid playing with basic calculators, there are still parts of our lives that depend on computers. I want to be able to help make those parts better!<br><br>If you wanna connect, feel free to connect with me on LinkedIn!
@@ -48,13 +52,21 @@ Hello! My name is Raj Firke, and I’m a computer Engineering student at PCCOE, 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=rajfirke&theme=radical&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=rajfirke&theme=radical&hide_border=false)<br/>
+
+<div align= "center" >
+  
+![](https://github-readme-stats.vercel.app/api?username=rajfirke&theme=radical&hide_border=false&include_all_commits=true&count_private=false) 
+
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rajfirke&theme=radical&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+</div>
+
 ### ✍️ Random Dev Quote
+<div align= "center" >
+  
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
+</div>
 ---
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
