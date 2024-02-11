@@ -1,13 +1,22 @@
 <div align='center'>
   
-![image]()
+![image](./github-header-image.png)
 
 </div>
 
-## Hi 👀 , I'm Raj Firke 
+## Hi 👀 , I'm Raj Firke
 
 
-Hello! I am Raj Firke pursuing a BTech degree in CS at [PCCOE  - Pimpri Chinchwad College Of Engineering, Pune.](http://www.pccoepune.com/). I’m enthusiastic about the field of AI-ML because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems.<br><br>I am also interested in the future of technology like LLM, and Data because even though computer technology has come a long way since I was a kid playing with basic calculators, there are still parts of our lives that depend on computers. I want to be able to help make those parts better!<br><br>If you wanna connect, feel free to connect with me on LinkedIn!
+Hey there! 🚀 Currently on a thrilling journey towards a B. Tech in CS at [PCCOE  - Pimpri Chinchwad College Of Engineering, Pune.](http://www.pccoepune.com/)  🎓. 
+
+Let me jazz up my AI-ML enthusiasm for you:
+  - 🤖 Passionate about diving into the captivating realm of AI-ML, where I get to weave together my love for math, science, and programming to tackle intriguing problems.
+  - 🌐 Future-tech fanatic! Keeping an eye on the horizon for emerging technologies like LLM and the fascinating world of Data. Exciting times ahead! 🚀
+  - 💡 Check out my cool projects where I'm putting theory into action. If you have any brilliant ideas or want to contribute, I'm all ears! 🤝
+
+🔗 Let's connect on LinkedIn! Whether you're into tech discussions, or collaboration, or just want to share some cool cat memes, I'm up for it. Can't wait to build connections in the digital universe! 🌐💼
+
+Feel free to reach out and let's embark on this tech adventure together! 🚀👩‍💻
 
 <br>
 
