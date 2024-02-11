@@ -18,20 +18,23 @@ Let me jazz up my AI-ML enthusiasm for you:
 
 Feel free to reach out and let's embark on this tech adventure together! 🚀👩‍💻
 
-<br>
-
 <img src="https://komarev.com/ghpvc/?username=rajfirke&label=Profile%20views&color=0e75b6&style=flat" alt="rajfirke"/> 
 
+## 📞 Connect with me:
+
+<a href="https://www.linkedin.com/in/raj-firke/">
+  <img src="https://img.shields.io/badge/-RajFirke-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/_raj_23_">
+  <img src="https://img.shields.io/badge/-RajFirke-purple?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+<a href="mailto:rajfirke23@gmail.com">
+  <img src="https://img.shields.io/badge/-rajfirke23@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
+</a>
+
 <br>
 
-# 🌐 Socials:
-
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_raj_23_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-firke) [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rajfirke23@gmail.com)
-
-
-<br>
-
-# 💻 Tech Stack:
+## 👨‍💻 Technologies:
 
 ### Language :
 
