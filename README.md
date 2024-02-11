@@ -12,8 +12,11 @@ Hello! My name is Raj Firke, and I’m a computer Engineering student at PCCOE, 
 <img src="https://komarev.com/ghpvc/?username=rajfirke&label=Profile%20views&color=0e75b6&style=flat" alt="rajfirke"/> 
 
 <br>
+
 # 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_raj_23_)   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-firke)  [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rajfirke23@gmail.com)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/_raj_23_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/raj-firke) [![Gmail](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail&logoColor=red)](mailto:rajfirke23@gmail.com)
+
 
 <br>
 
