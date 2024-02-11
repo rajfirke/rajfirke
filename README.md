@@ -1,11 +1,13 @@
-<div align= "center" >
+<div align='center'>
   
-![Alt text](github-header-image%20(2).png)
+![image]()
 
 </div>
 
-# 💫 About Me:
-Hello! My name is Raj Firke, and I’m a computer Engineering student at PCCOE, Pune. I’m enthusiastic in the field because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems.<br><br>I am also interested in the future of technology like LLM, and Data because even though computer technology has come a long way since I was a kid playing with basic calculators, there are still parts of our lives that depend on computers. I want to be able to help make those parts better!<br><br>If you wanna connect, feel free to connect with me on LinkedIn!
+## Hi 👀 , I'm Raj Firke 
+
+
+Hello! I am Raj Firke pursuing a BTech degree in CS at [PCCOE  - Pimpri Chinchwad College Of Engineering, Pune.](http://www.pccoepune.com/). I’m enthusiastic about the field of AI-ML because it allows me to apply my math, science, and programming knowledge to solve exciting and valuable problems.<br><br>I am also interested in the future of technology like LLM, and Data because even though computer technology has come a long way since I was a kid playing with basic calculators, there are still parts of our lives that depend on computers. I want to be able to help make those parts better!<br><br>If you wanna connect, feel free to connect with me on LinkedIn!
 
 <br>
 
