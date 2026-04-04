@@ -1,6 +1,6 @@
 <div align='center'>
   
-![image](./github_bg.png)
+![image](./github_readme.png)
 
 </div>
 
