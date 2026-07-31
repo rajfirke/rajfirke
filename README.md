@@ -1,85 +1,102 @@
-<div align='center'>
-  
-![image](./github_readme.png)
+<div align="center">
+
+![banner](./github_readme.png)
+
+# Raj Firke
+
+**Software Engineer (AI) at Red Hat** · Open Source Contributor · Building ML infrastructure that scales
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-firke/)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajfirke23@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/rajfirke)
 
 </div>
 
-## Hi 👀 , I'm Raj Firke,
-Hey there! 🚀 Currently on a thrilling journey as a Software Engineer - L1 at Red Hat 🧑‍💻.
+---
 
-Let me jazz up my AI-ML enthusiasm for you:
-  - 🤖 Passionate about diving into the captivating realm of AI, where I get to weave together my love for math, science, and programming to tackle intriguing problems.
-  - 🌐 Future-tech fanatic! Keeping an eye on the horizon for emerging technologies like agentic workflows and automations using AI. Exciting times ahead! 🚀
-  - 💡 Check out my cool projects where I'm putting theory into action. If you have any brilliant ideas or want to contribute, I'm all ears! 🤝
+## About
 
-🔗 Let's connect on LinkedIn! Whether you're into tech discussions, or collaboration, or just want to share some cool cat memes, I'm up for it. Can't wait to build connections in the digital universe! 🌐💼
+I work at the intersection of **DevOps** and **AI** — building platforms that bring machine learning from prototype to production. At Red Hat, I focus on AI integration, infrastructure automation, and enabling teams to ship ML workloads reliably.
 
-Feel free to reach out and let's embark on this tech adventure together! 🚀👩‍💻
+Outside work, I contribute to **open source ML infrastructure** — fixing bugs, improving validation, and adding features to projects like PyTorch and vLLM. I believe the best way to understand deep learning frameworks is to work on their internals.
 
-<img src="https://komarev.com/ghpvc/?username=rajfirke&label=Profile%20views&color=0e75b6&style=flat" alt="rajfirke"/> 
+---
 
-## 📞 Connect with me:
+## Open Source Contributions
 
-<a href="https://www.linkedin.com/in/raj-firke/">
-  <img src="https://img.shields.io/badge/-RajFirke-blue?style=for-the-badge&logo=Linkedin&logoColor=white" />
-</a>
-<a href="https://www.instagram.com/_raj_23_">
-  <img src="https://img.shields.io/badge/-RajFirke-purple?style=for-the-badge&logo=instagram&logoColor=white" />
-</a>
-<a href="mailto:rajfirke23@gmail.com">
-  <img src="https://img.shields.io/badge/-rajfirke23@gmail.com-c14438?style=for-the-badge&logo=Gmail&logoColor=white" />
-</a>
+### [PyTorch](https://github.com/pytorch/pytorch) — Deep Learning Framework
 
-<br>
+Active contributor working on core framework improvements:
 
-## 👨‍💻 Technologies:
+- **Input validation & safety** — Adding proper bounds checking to prevent silent failures in `max_pool3d`, `channel_shuffle`, `RNN cells`, and convolution ops
+- **Optimizer improvements** — `maximize` parameter for LBFGS, integer step tensor support in foreach optimizers
+- **Numerical stability** — Fixing NaN propagation in `lp_pool`, `hardtanh` backward pass corrections
+- **API enhancements** — `keepdim` for `cosine_similarity`, `NanDetectMode` for forward-pass diagnostics, `dtype` context manager
 
-### Language :
+### [vLLM](https://github.com/vllm-project/vllm) — LLM Inference Engine
 
-![C++](https://img.shields.io/badge/-C++-00599C?style=for-the-badge&logo=c)
-![Python](https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=Python)
-![MYSQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+Contributing to the high-throughput LLM serving engine:
 
-### Tools, Frameworks & Libraries :
+- **Responses API** — Namespace tools support for harmony/GPT-OSS models
 
-![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white) 
+---
 
-### OS & Databases :
+## Featured Projects
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+| Project | Description | Stack |
+|---------|-------------|-------|
+| [**provena**](https://github.com/rajfirke/provena) | Context governance for agentic AI — tamper-evident audit trails, provenance validation, EU AI Act compliance | Python, PostgreSQL, MCP, Policy Engine |
+| [**sumo-logic-mcp**](https://github.com/rajfirke/sumo-logic-mcp) | MCP server for Sumo Logic with 48 tools — log search, monitors, alerts, dashboards, metrics | Python, MCP Protocol |
+| [**repo-time-machine**](https://github.com/rajfirke/repo-time-machine) | Agentic RAG for codebases — ask questions answered by code, git history, issues & PRs | Python, FAISS, Ollama |
 
-### Coding Profiles :
+---
 
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)](https://leetcode.com/rajfirke23/)
-[![HackerRank](https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/profile/rajfirke23)
-[![GeeksForGeeks](https://img.shields.io/badge/GeeksforGeeks-gray?style=for-the-badge&logo=geeksforgeeks&logoColor=35914c)](https://auth.geeksforgeeks.org/user/raj_firke_23) 
+## Tech Stack
 
-### Others:
-![Git](https://skillicons.dev/icons?i=git) 
-![My Skills](https://skillicons.dev/icons?i=aws) 
-![Linux](https://skillicons.dev/icons?i=linux) 
-![Discord](https://skillicons.dev/icons?i=discord) 
-![Github](https://skillicons.dev/icons?i=github) 
-![ai](https://skillicons.dev/icons?i=ai) 
+**Languages**
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
 
-## 📈Stats:
-<p align="center"> 
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajfirke&theme=dark" alt="Stats" />
-</p>
-<p align="center"> 
-  <img width="36.5%" src="https://github-readme-stats.vercel.app/api/top-langs?username=rajfirke&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&locale=en&layout=compact" alt="rajfirke" />
-<!--   <img width="48%" src= "https://github-readme-stats.vercel.app/api?username=rajfirke\&show_icons=true\&theme=radical" alt="Stats" /> -->
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=rajfirke&show_icons=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" alt="Stats" />  
-</p>
+**ML & AI**
 
-## ✍️ Random Dev Quote:
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
+![vLLM](https://img.shields.io/badge/vLLM-FF6F00?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)
+![CUDA](https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white)
+![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square&logo=meta&logoColor=white)
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 
-<div align= "center" >
-  
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
+**Infrastructure & DevOps**
+
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=redhatopenshift&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+
+**Databases & Tools**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## GitHub Stats
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajfirke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajfirke&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+
+</div>
+
+---
+
+<div align="center">
+
+*Currently contributing to PyTorch and vLLM — building the infrastructure that powers the next generation of AI.*
 
 </div>
