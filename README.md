@@ -90,8 +90,8 @@ Contributing to the high-throughput LLM serving engine:
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajfirke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajfirke&theme=tokyonight&hide_border=true" alt="Streak Stats" />
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajfirke&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&cache_seconds=86400" alt="GitHub Stats" />
+<img width="49%" src="https://streak-stats.demolab.com/?user=rajfirke&theme=tokyonight&hide_border=true" alt="Streak Stats" />
 
 </div>
 
