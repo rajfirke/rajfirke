@@ -18,7 +18,7 @@
 
 ## About
 
-I work at the intersection of **DevOps** and **AI** — building platforms that bring machine learning from prototype to production. At Red Hat, I focus on AI integration, infrastructure automation, and enabling teams to ship ML workloads reliably.
+I work at the intersection of **DevOps** and **AI** — building platforms that bring machine learning from prototype to production. At Red Hat, I focus on AI integration, infrastructure automation, research in applied AI, and enabling teams to ship ML workloads reliably.
 
 Outside work, I contribute to **open source ML infrastructure** (PyTorch, vLLM), publish research on recommendation systems and conversational AI, and hold patents in AI personalization. I also mentor junior engineers — helping them navigate open source, system design, and career growth.
 
