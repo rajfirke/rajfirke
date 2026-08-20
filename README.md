@@ -4,7 +4,7 @@
 
 # Raj Firke
 
-**Software Engineer (AI) at Red Hat** · Open Source Contributor · Building ML infrastructure that scales
+**Software Engineer (AI) at Red Hat** · AI Researcher · Open Source Contributor · Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-firke/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajfirke23@gmail.com)
@@ -20,7 +20,24 @@
 
 I work at the intersection of **DevOps** and **AI** — building platforms that bring machine learning from prototype to production. At Red Hat, I focus on AI integration, infrastructure automation, and enabling teams to ship ML workloads reliably.
 
-Outside work, I contribute to **open source ML infrastructure** — fixing bugs, improving validation, and adding features to projects like PyTorch and vLLM. I believe the best way to understand deep learning frameworks is to work on their internals.
+Outside work, I contribute to **open source ML infrastructure** (PyTorch, vLLM), publish research on recommendation systems and conversational AI, and hold patents in AI personalization. I also mentor junior engineers — helping them navigate open source, system design, and career growth.
+
+---
+
+## Research & Patents
+
+**Patents**
+
+- **System and Method for Utilizing Digital Footprints of a User to Generate Conversational AI Thereof**
+  `202421048008` · Filed Jun 2024 · Granted (20-year term)
+
+- **Recommendation and Intent Reconciliation in a Virtual Leader Framework**
+  `202521025963` · Filed Apr 2025 · Under review
+
+**Publication**
+
+- **A Survey on Advanced Recommendation Systems: Content-Based Filtering, Collaborative Filtering, Hybrid and Opinion Mining Approaches**
+  Springer Nature Singapore · Apr 2025
 
 ---
 
