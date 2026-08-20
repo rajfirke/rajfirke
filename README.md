@@ -97,6 +97,16 @@ Contributing to the high-throughput LLM serving engine:
 
 ---
 
+## Random Dev Quote
+
+<div align="center">
+
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
+
+</div>
+
+---
+
 <div align="center">
 
 *Currently contributing to PyTorch and vLLM — building the infrastructure that powers the next generation of AI.*
