@@ -1,7 +1,5 @@
 <div align="center">
 
-![banner](./github_readme.png)
-
 # Raj Firke
 
 **Software Engineer (AI) at Red Hat** · AI Researcher · Open Source Contributor · Mentor
