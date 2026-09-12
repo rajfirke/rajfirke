@@ -34,8 +34,17 @@ Outside work, I contribute to **open source ML infrastructure** (PyTorch, vLLM),
 
 **Publication**
 
+- **The Correlation Mirage: Benchmark Dependence Collapses for Top-Performing LLMs**
+  EMNLP 2026 (forthcoming) · 2026
+
+- **When Does Reasoning Age? Survival Analysis of Step-Level Error Hazard in LLM Chains**
+  EMNLP 2026 (forthcoming) · 2026
+
+- **GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon**
+  IEEE Xplore (forthcoming) · 2026
+
 - **A Survey on Advanced Recommendation Systems: Content-Based Filtering, Collaborative Filtering, Hybrid and Opinion Mining Approaches**
-  Springer Nature Singapore · Apr 2025
+  Springer Nature Singapore · 2025
 
 ---
 
