@@ -2,7 +2,7 @@
 
 # Raj Firke
 
-**Software Engineer (AI) at Red Hat** · AI Researcher · Open Source Contributor · Mentor
+**Software Engineer (AI) at Red Hat** · AI Researcher · 2x EMNLP · Open Source Contributor · Mentor
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-firke/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajfirke23@gmail.com)
@@ -34,17 +34,17 @@ Outside work, I contribute to **open source ML infrastructure** (PyTorch, vLLM),
 
 **Publication**
 
-- **The Correlation Mirage: Benchmark Dependence Collapses for Top-Performing LLMs**
-  EMNLP 2026 (forthcoming) · 2026
+- **The Correlation Mirage: Benchmark Dependence Collapses for Top-Performing LLMs** 
+  · EMNLP 2026 (forthcoming) · 2026
 
-- **When Does Reasoning Age? Survival Analysis of Step-Level Error Hazard in LLM Chains**
-  EMNLP 2026 (forthcoming) · 2026
+- **When Does Reasoning Age? Survival Analysis of Step-Level Error Hazard in LLM Chains** 
+  · EMNLP 2026 (forthcoming) · 2026
 
-- **GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon**
-  IEEE Xplore (forthcoming) · 2026
+- **GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon** 
+  · IEEE Xplore (forthcoming) · 2026
 
-- **A Survey on Advanced Recommendation Systems: Content-Based Filtering, Collaborative Filtering, Hybrid and Opinion Mining Approaches**
-  Springer Nature Singapore · 2025
+- **A Survey on Advanced Recommendation Systems: Content-Based Filtering, Collaborative Filtering, Hybrid and Opinion Mining Approaches** 
+  · Springer Nature Singapore · 2025
 
 ---
 
