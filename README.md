@@ -2,7 +2,7 @@
 
 # Raj Firke
 
-**Software Engineer (AI) at Red Hat** · LLM evaluation & CoT process monitoring · 2x EMNLP Main · Open Source
+**Software Engineer (AI) at Red Hat** · Researcher (LLM evaluation & CoT process monitoring) · 2x EMNLP Main · Open Source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-firke/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajfirke23@gmail.com)
@@ -16,9 +16,11 @@
 
 ## About
 
-I study when **LLM evaluations** stop meaning what we think they mean. Two first-author papers at **EMNLP 2026 Main**: one shows bulk benchmark correlation can collapse among top models; the other treats chain-of-thought as a survival process and shows error hazard usually rises with depth. The shared question is process and score reliability, not leaderboard climbing.
+I am a Software Engineer (AI) at Red Hat. I work on agentic systems in production: MCP servers, diagnostics agents, and support automation that customers actually use.
 
-At Red Hat I am a Software Engineer (AI) on Agentic Experience. I ship MCP servers, ADK agents, and ASA. I maintain [Provena](https://github.com/rajfirke/provena), contribute to PyTorch and vLLM, and mentor final-year B.Tech students.
+I work on LLM evaluation and chain-of-thought monitoring. I care about when a score or a trace stops being a trustworthy signal. I look at whether two models can share the same accuracy and still fail in different ways, and whether a chain that still looks clean is already getting riskier with depth.
+
+I belong in the overlap of shipping agents and measuring them. I maintain [Provena](https://github.com/rajfirke/provena). I contribute to PyTorch and vLLM. I mentor students who are starting the same kind of work.
 
 ---
 
