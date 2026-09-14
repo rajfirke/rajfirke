@@ -2,7 +2,7 @@
 
 # Raj Firke
 
-**Software Engineer (AI) at Red Hat** · AI Researcher · 2x EMNLP · Open Source Contributor · Mentor
+**Software Engineer (AI) at Red Hat** · LLM evaluation & CoT process monitoring · 2x EMNLP Main · Open Source
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raj-firke/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:rajfirke23@gmail.com)
@@ -16,9 +16,9 @@
 
 ## About
 
-I work at the intersection of **DevOps** and **AI** — building platforms that bring machine learning from prototype to production. At Red Hat, I focus on AI integration, infrastructure automation, research in applied AI, and enabling teams to ship ML workloads reliably.
+I study when **LLM evaluations** stop meaning what we think they mean. Two first-author papers at **EMNLP 2026 Main**: one shows bulk benchmark correlation can collapse among top models; the other treats chain-of-thought as a survival process and shows error hazard usually rises with depth. The shared question is process and score reliability, not leaderboard climbing.
 
-Outside work, I contribute to **open source ML infrastructure** (PyTorch, vLLM), publish research on recommendation systems and conversational AI, and hold patents in AI personalization. I also mentor junior engineers — helping them navigate open source, system design, and career growth.
+At Red Hat I am a Software Engineer (AI) on Agentic Experience. I ship MCP servers, ADK agents, and ASA. I maintain [Provena](https://github.com/rajfirke/provena), contribute to PyTorch and vLLM, and mentor final-year B.Tech students.
 
 ---
 
@@ -32,19 +32,22 @@ Outside work, I contribute to **open source ML infrastructure** (PyTorch, vLLM),
 - **Recommendation and Intent Reconciliation in a Virtual Leader Framework**
   `202521025963` · Filed Apr 2025 · Under review
 
-**Publication**
+**Publications**
 
-- **The Correlation Mirage: Benchmark Dependence Collapses for Top-Performing LLMs** 
-  · EMNLP 2026 (forthcoming) · 2026
+- **[When Does Reasoning Age? Survival Analysis of Step-Level Error Hazard in LLM Chains](https://github.com/rajfirke/survival-llm-reasoning)**
+  · EMNLP 2026 Main · first author · CoT process monitoring
 
-- **When Does Reasoning Age? Survival Analysis of Step-Level Error Hazard in LLM Chains** 
-  · EMNLP 2026 (forthcoming) · 2026
+- **[The Correlation Mirage: Benchmark Dependence Collapses for Top-Performing LLMs](https://github.com/rajfirke/correlation-mirage-benchmarks)**
+  · EMNLP 2026 Main · first author · science of evaluations
 
-- **GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon** 
-  · IEEE Xplore (forthcoming) · 2026
+- **[GreenBench: Benchmarking Energy Efficiency and Carbon Footprint of Open-Source LLM Inference on Apple Silicon](https://arxiv.org/abs/2608.28667)**
+  · ICCUBEA 2026 (IEEE Xplore) · energy as an eval axis
 
-- **A Survey on Advanced Recommendation Systems: Content-Based Filtering, Collaborative Filtering, Hybrid and Opinion Mining Approaches** 
-  · Springer Nature Singapore · 2025
+- **A Survey on Advanced Recommendation Systems: Content-Based Filtering, Collaborative Filtering, Hybrid and Opinion Mining Approaches**
+  · ICTIS 2025 / Springer LNNS · 2025
+
+- **[Proposed Model of Hindi Book Review Sentiment Analysis](https://www.ijert.org/proposed-model-of-hindi-book-review-sentiment-analysis)**
+  · IJERT 2023 · earlier NLP
 
 ---
 
@@ -71,6 +74,8 @@ Contributing to the high-throughput LLM serving engine:
 
 | Project | Description | Stack |
 |---------|-------------|-------|
+| [**survival-llm-reasoning**](https://github.com/rajfirke/survival-llm-reasoning) | Code for *When Does Reasoning Age?* — CoT error hazard, 18,969 chains | Python, survival analysis |
+| [**correlation-mirage-benchmarks**](https://github.com/rajfirke/correlation-mirage-benchmarks) | Code for *The Correlation Mirage* — copula tail dependence of LLM benches | Python, copulas |
 | [**provena**](https://github.com/rajfirke/provena) | Context governance for agentic AI — tamper-evident audit trails, provenance validation, EU AI Act compliance | Python, PostgreSQL, MCP, Policy Engine |
 | [**sumo-logic-mcp**](https://github.com/rajfirke/sumo-logic-mcp) | MCP server for Sumo Logic with 48 tools — log search, monitors, alerts, dashboards, metrics | Python, MCP Protocol |
 | [**repo-time-machine**](https://github.com/rajfirke/repo-time-machine) | Agentic RAG for codebases — ask questions answered by code, git history, issues & PRs | Python, FAISS, Ollama |
@@ -133,6 +138,6 @@ Contributing to the high-throughput LLM serving engine:
 
 <div align="center">
 
-*Currently contributing to PyTorch and vLLM — building the infrastructure that powers the next generation of AI.*
+*Currently measuring when LLM evals and CoT traces stop being trustworthy — and shipping agents at Red Hat.*
 
 </div>
