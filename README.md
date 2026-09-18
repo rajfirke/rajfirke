@@ -16,11 +16,13 @@
 
 ## About
 
-I am a Software Engineer (AI) at Red Hat. I work on agentic systems in production: MCP servers, diagnostics agents, and support automation that customers actually use.
+I am a Software Engineer (AI) at Red Hat. I own multiple customer facing projects and work on agentic systems: MCP servers, diagnostics agents, and support automation.
 
-I work on LLM evaluation and chain-of-thought monitoring. I care about when a score or a trace stops being a trustworthy signal. I look at whether two models can share the same accuracy and still fail in different ways, and whether a chain that still looks clean is already getting riskier with depth.
+I also do research in AI Safety with key focus on LLM evaluation and chain-of-thought monitoring. I care about when a score or a trace stops being a trustworthy signal. I look at whether two models can share the same accuracy and still fail in different ways, and whether a chain that still looks clean is already getting riskier with depth.
 
-I belong in the overlap of shipping agents and measuring them. I maintain [Provena](https://github.com/rajfirke/provena). I contribute to PyTorch and vLLM. I mentor students who are starting the same kind of work.
+I belong in the overlap of shipping agents and measuring them. I maintain [Provena](https://github.com/rajfirke/provena). Which is a Context governance for agentic AI. I am an active contributor in PyTorch and vLLM. Additionally, I also do mentor students who are starting the same kind of work.
+
+Please reachout if you wanna collab on research.
 
 ---
 
